@@ -1,2 +1,2 @@
-# cp1404practical
-My practical for CP1404
+# cp1404 Practicals
+My practicals for CP1404
