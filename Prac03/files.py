@@ -1,4 +1,7 @@
-"""Files"""
+"""
+CP1404/CP5632 - Practical
+Quick file opening/writing/reading exercises
+"""
 #1.
 name = input("What is your name? ")
 out_file = open("name.txt", 'r')
