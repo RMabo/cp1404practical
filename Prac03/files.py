@@ -21,7 +21,7 @@ second_number = int(in_file.readline())
 total = first_number + second_number
 print(total)
 
-#3 extended
+#3extended
 in_file = open("number.txt",'r')
 total = 0
 for line in in_file:
