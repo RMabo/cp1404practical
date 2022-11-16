@@ -1,5 +1,5 @@
 """
-Prac 07
+Prac07
 Do-from-scratch Exercises
 Project Management Program
 """
