@@ -3,7 +3,7 @@ Roderick Mabo
 CP1404/CP5632 Practical
 Car class
 """
-from Prac09 import Car
+from Prac09.car import Car
 
 
 class Taxi(Car):

@@ -1,4 +1,4 @@
-from Prac09.silver_service_taxi import SilverServiceTaxi
+from Prac09.silver_servie_taxi import SilverServiceTaxi
 
 
 def main():
